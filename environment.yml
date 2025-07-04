@@ -1,4 +1,4 @@
-name: /home/yma9130/conda-envs/torch-gpu
+name: torch-gpu
 channels:
   - conda-forge
   - defaults
@@ -103,4 +103,3 @@ dependencies:
   - numpy[version='<=2.0']
   - numba
   - shap
-prefix: /home/yma9130/conda-envs/torch-gpu
